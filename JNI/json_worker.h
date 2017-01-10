@@ -5,7 +5,7 @@
 #ifndef BLACK_MOCAR_JSON_WORKER_H
 #define BLACK_MOCAR_JSON_WORKER_H
 
-#include "lw_jni.h"
+#include "obo_jni.h"
 
 /*
  * 自定义封装json接口

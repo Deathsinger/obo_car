@@ -5,7 +5,7 @@
 #ifndef BLACK_MOCAR_CURL_WORKER_H
 #define BLACK_MOCAR_CURL_WORKER_H
 
-#include "lw_jni.h"
+#include "obo_jni.h"
 
 #define curlTag "CurlWorker"
 
